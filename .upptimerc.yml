@@ -3,19 +3,19 @@ owner: alexinabox # Your GitHub organization or username, where this repository 
 repo: status # The name of this repository
 
 sites:
-  - name: Anxiety
+  - name: Anxiety (DDoS Protection)
     check: "tcp-ping"
     url: $ANXIETY_IP
     port: 22
-  - name: Bliss
+  - name: Bliss (Hetzner Dedicated Server)
     check: "tcp-ping"
     url: $BLISS_IP
     port: 22
-  - name: Curiosity
+  - name: Curiosity (Las Vegas VPS)
     check: "tcp-ping"
     url:  $CURIOSITY_IP
     port: 22
-  - name: Base
+  - name: Base (Berlin VPS)
     check: "tcp-ping"
     url:  $BASE_IP
     port: 22
@@ -26,8 +26,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://zeitvertreib.vip/assets/logos/logo_full_color_1to1.png
   name: Zeitvertreib Status!!
-  introTitle: "OMG! Das ist die echte **Zeitvertreib** Status Seite!! Wie cool..!"
-  introMessage: "Das sind so alle Server in meiner **Infrastruktur**! Auf dem **Discord Server** ist es aber vieeeel cooler: [**Beitreten!**](https://dsc.gg/zeit)"
+  introTitle: "OMG! Das ist die echte **Zeitvertreib** Statusseite!! Wie cool..!"
+  introMessage: "Das sind so alle Server meiner **Infrastruktur**! Auf dem **Discord Server** ist es aber vieeeel cooler: [**Beitreten!**](https://dsc.gg/zeit)"
   navbar:
     - title: Status
       href: /
