@@ -1,0 +1,7 @@
+url: ${{ secrets.BASE_IP }}
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-09-14T15:49:04.987Z
+startTime: 2024-09-14T15:49:04.984Z
+generator: Upptime <https://github.com/upptime/upptime>
