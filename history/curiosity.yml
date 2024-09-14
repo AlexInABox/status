@@ -1,7 +1,7 @@
-url: ${{ secrets.CURIOSITY_IP }}
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-14T15:49:02.565Z
+url: $CURIOSITY_IP
+status: up
+code: 200
+responseTime: 61
+lastUpdated: 2024-09-14T15:51:22.488Z
 startTime: 2024-09-14T15:49:02.561Z
 generator: Upptime <https://github.com/upptime/upptime>
