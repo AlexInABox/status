@@ -27,7 +27,7 @@ status-website:
   logoUrl: https://zeitvertreib.vip/assets/logos/logo_full_color_1to1.png
   name: Zeitvertreib Status!!
   introTitle: "OMG! Das ist die echte **Zeitvertreib** Status Seite!! Wie cool..!"
-  introMessage: Das sind so alle Server in meiner **Infrastruktur**! Auf dem **Discord Server** ist es aber vieeeel cooler: [**Beitreten!**](https://dsc.gg/zeit)
+  introMessage: "Das sind so alle Server in meiner **Infrastruktur**! Auf dem **Discord Server** ist es aber vieeeel cooler: [**Beitreten!**](https://dsc.gg/zeit)"
   navbar:
     - title: Status
       href: /
