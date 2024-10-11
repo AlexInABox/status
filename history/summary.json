@@ -4,19 +4,19 @@
     "url": "$ANXIETY_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "anxiety-d-do-s-protection",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 118,
-    "timeDay": 107,
-    "timeWeek": 108,
-    "timeMonth": 118,
-    "timeYear": 118,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 119,
+    "timeDay": 128,
+    "timeWeek": 113,
+    "timeMonth": 119,
+    "timeYear": 119,
     "dailyMinutesDown": {
-      "2024-10-11": 1
+      "2024-10-11": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$BLISS_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bliss-hetzner-dedicated-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 117,
-    "timeDay": 112,
-    "timeWeek": 115,
-    "timeMonth": 117,
-    "timeYear": 117,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 118,
+    "timeDay": 134,
+    "timeWeek": 120,
+    "timeMonth": 118,
+    "timeYear": 118,
     "dailyMinutesDown": {
-      "2024-10-11": 0
+      "2024-10-11": 9
     }
   },
   {
