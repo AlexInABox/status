@@ -22,19 +22,19 @@
     "url": "$BLISS_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bliss-hetzner-dedicated-server",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 117,
     "timeDay": 104,
     "timeWeek": 106,
     "timeMonth": 116,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-10-28": 21
+      "2024-10-28": 15
     }
   },
   {
