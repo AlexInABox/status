@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 89,
-    "timeWeek": 100,
-    "timeMonth": 117,
+    "timeDay": 105,
+    "timeWeek": 102,
+    "timeMonth": 110,
     "timeYear": 115,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bliss-hetzner-dedicated-server",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "96.79%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.93%",
-    "time": 117,
-    "timeDay": 106,
-    "timeWeek": 107,
+    "uptime": "99.95%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.95%",
+    "time": 116,
+    "timeDay": 108,
+    "timeWeek": 109,
     "timeMonth": 116,
-    "timeYear": 117,
+    "timeYear": 116,
     "dailyMinutesDown": {
-      "2024-10-28": 46
+      "2024-10-28": 32
     }
   },
   {
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 47,
-    "timeDay": 65,
-    "timeWeek": 53,
+    "timeDay": 45,
+    "timeWeek": 51,
     "timeMonth": 48,
     "timeYear": 47,
     "dailyMinutesDown": {}
@@ -67,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 106,
-    "timeWeek": 117,
+    "timeDay": 113,
+    "timeWeek": 118,
     "timeMonth": 121,
     "timeYear": 122,
     "dailyMinutesDown": {}
