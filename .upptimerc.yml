@@ -35,6 +35,6 @@ status-website:
       href: https://dsc.gg/zeit
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-runner: "[self-hosted, linux, ARM64]"
+runner: "[self-hosted, Linux, X64, berlin, base]"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
