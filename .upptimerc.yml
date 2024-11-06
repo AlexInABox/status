@@ -35,5 +35,6 @@ status-website:
       href: https://dsc.gg/zeit
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+user-agent: alexinabox
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
