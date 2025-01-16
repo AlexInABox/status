@@ -1,7 +1,7 @@
 url: $CURIOSITY_IP
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-16T13:41:05.320Z
+status: up
+code: 200
+responseTime: 16
+lastUpdated: 2025-01-16T16:06:38.587Z
 startTime: 2024-09-14T16:06:30.541Z
 generator: Upptime <https://github.com/upptime/upptime>
