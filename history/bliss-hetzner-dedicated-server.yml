@@ -1,7 +1,7 @@
 url: $BLISS_IP
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-04T23:42:26.669Z
+status: up
+code: 200
+responseTime: 119
+lastUpdated: 2025-02-04T23:45:28.112Z
 startTime: 2024-09-14T16:06:29.788Z
 generator: Upptime <https://github.com/upptime/upptime>
