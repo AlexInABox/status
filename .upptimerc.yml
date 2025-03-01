@@ -6,7 +6,7 @@ sites:
   - name: Confidence (DDoS Protection)
     check: "tcp-ping"
     url: $CONFIDENCE_IP
-    port: 22
+    port: 2222
   - name: Bliss (Hetzner Dedicated Server)
     check: "tcp-ping"
     url: $BLISS_IP
